@@ -6,4 +6,5 @@ Firstly, Trained with  LSTM \
 And then with Bidirectional LSTM. 
 
 Predicted and showed a Classification report\
-in order to compare between these two !!
+in order to compare between these two \
+to know which works better in these problem statements !
